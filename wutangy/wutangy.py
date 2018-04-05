@@ -180,5 +180,4 @@ clanIn = [
 
 
 def wu():
-
-    print('WUTANG COMING AT YOU IN DUE TIME')
+    print('WUTANG COMING AT YOU IN DUE TIME.')
